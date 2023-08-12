@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "openhuninn";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("@/assets/fonts/jf-openhuninn.ttf") format("truetype");
+}
+html {
+  font-family: "openhuninn";
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url("@/assets/fonts/jf-openhuninn.ttf") format("truetype");
+}
