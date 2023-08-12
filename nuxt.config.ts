@@ -13,7 +13,7 @@ export default defineNuxtConfig({
     ],
   },
   app: {
-    baseURL: "/svg-test/", // baseURL: '/<repository>/'
+    baseURL: "/nuxt3-vite-svg/", // baseURL: '/<repository>/'
     buildAssetsDir: "assets", // don't use "_" at the begining of the folder name to avoids nojkill conflict
   },
 });
