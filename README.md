@@ -1,10 +1,13 @@
 ## Nuxt3 + vite-plugin-svg-icons + TS
 
-使用中央氣象局天氣代號表, 使用隨機代號模擬不同天氣下的Svg圖片切換
+使用中央氣象局天氣代號表, 使用隨機代號模擬不同天氣下的Svg圖片切換:
+[我是demo](https://yang-tj.github.io/nuxt3-vite-svg/)
 
 #### 安裝
 
-`yarn add -vite-plugin-svg-icons -D`
+```Javascript
+yarn add -vite-plugin-svg-icons -D
+```
 
 #### 配置
 
